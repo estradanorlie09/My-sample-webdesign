@@ -1,0 +1,69 @@
+#navbar .container-nav{
+  display: block;
+  padding: 0 1rem;
+  text-align: center;
+}
+#navbar .container-nav > h4{
+  font-size: .75rem;
+}
+#navbar .container-nav ul{
+  margin: 0 20%;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+#navbar .container-nav .btn-hire-me{
+  display: none;
+}
+
+#main-header .container{
+  display: block;
+}
+#main-header .container .text-title .name-title{
+  font-size: 2.5rem;
+}
+#main-header .container > img{
+  display: none;
+}
+#main-header .container .text-title .btn{
+  display: block;
+  margin-top: 0.4rem;
+  width: 45%;
+}
+hr{
+  width:15%;
+}
+#section-service{
+  height: 1800px;
+}
+#section-service .container-service{
+  display: block;
+}
+#section-service .container-service .box{
+  padding-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+#section-about .wrapper-section-about{
+  display: block;
+}
+#section-about .wrapper-section-about >img{
+  display: none;
+}
+#section-contact{
+  height: 800px;
+}
+#section-contact .container-contact{
+  display: block;
+}
+#section-contact .container-contact img{
+  display: none;
+}
+#main-footer .container-footer ul{
+  font-size: 0.75rem;
+}
+#main-footer .container-footer ul li a{
+  font-size: 0.65rem;
+}
+#main-footer .container-footer > h4{
+  font-size: 1.20rem;
+}
